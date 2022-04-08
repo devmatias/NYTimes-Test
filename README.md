@@ -23,4 +23,4 @@ IDE Xcode Version 13.3
 Resultados Obtidos
 
 
-![](/Users/matiasfaria/Desktop/nytgif.gif.gif)
+![](nytgif.gif.gif)
