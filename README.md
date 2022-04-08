@@ -22,4 +22,4 @@ IDE Xcode Version 13.3
 
 Resultados Obtidos
 
-![ Alt text](/Users/matiasfaria/Documents/NYTtest gif.wfp) / ! [](/Users/matiasfaria/Documents/NYTtest gif.wfp)
+![](nytgif.gif)
